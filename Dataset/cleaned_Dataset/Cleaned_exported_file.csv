@@ -1,0 +1,49 @@
+"order_id";"customer_name";"email";"phone";"city";"state";"product_name";"category";"price";"quantity";"order_date";"delivery_date";"payment_method";"order_status";"rating"
+7;"Rahul agarwal";"rahulagarwal66@outlook.com";"6403138462";"HYDERABAD";"Telangana";"Laptop";"FASHION";13596.0;1;"2024-03-05";"2024-03-15";"COD";"Pending";4
+9;"Vikas singh";"vikassingh67@yahoo.com";"8241515392";"DELHI";"Karnataka";"Laptop";"ACCESSORIES";14097.0;1;"2024-03-05";"2024-03-15";"Online";"Pending";4
+11;"Rohit gupta";"rohitgupta55@yahoo.com";"7685671813";"CHENNAI";"Tamil Nadu";"Backpack";"ACCESSORIES";8342.0;3;"2024-03-10";"2024-03-15";"Online";"Pending";3
+12;"Priya mehta";"priyamehta46@outlook.com";"7137986071";"DELHI";"Maharashtra";"Backpack";"ELECTRONICS";20230.0;1;"2024-03-10";"2024-03-15";"COD";"Delivered";3
+20;"Sneha sharma";"snehasharma48@gmail.com";"6314973420";"DELHI";"Delhi";"Mobile";"FASHION";24314.0;2;"2024-03-05";"2024-03-15";"Online";"Pending";4
+21;"Neha sharma";"nehasharma36@yahoo.com";"8525162873";"DELHI";"Gujarat";"Mobile";"FASHION";29112.0;1;"2024-03-10";"2024-03-15";"Online";"Delivered";4
+25;"Vikas yadav";"vikasyadav12@gmail.com";"8644056546";"DELHI";"Maharashtra";"Backpack";"ELECTRONICS";30401.0;1;"2024-03-10";"2024-03-15";"Online";"delivered";1
+26;"Amit patel";"amitpatel13@yahoo.com";"8456266834";"DELHI";"Gujarat";"Tablet";"ACCESSORIES";43538.0;3;"2024-03-10";"2024-03-15";"cod";"delivered";1
+30;"Priya agarwal";"priyaagarwal69@yahoo.com";"9508971951";"CHENNAI";"Tamil Nadu";"Tablet";"ELECTRONICS";29326.0;1;"2024-03-10";"2024-03-15";"COD";"delivered";1
+32;"Rahul jain";"rahuljain35@outlook.com";"7875547879";"PUNE";"Maharashtra";"Backpack";"ELECTRONICS";21348.0;1;"2024-03-10";"2024-03-15";"cod";"Pending";5
+33;"Karan agarwal";"karanagarwal91@yahoo.com";"7403951501";"AHMEDABAD";"Gujarat";"Laptop";"ACCESSORIES";23823.0;2;"2024-03-15";"2024-03-20";"cod";"delivered";1
+35;"Sneha jain";"snehajain35@gmail.com";"8478232947";"AHMEDABAD";"Gujarat";"Mobile";"ACCESSORIES";48941.0;1;"2024-03-10";"2024-03-15";"Online";"delivered";2
+39;"Sneha patel";"snehapatel90@gmail.com";"9025017706";"AHMEDABAD";"Gujarat";"Backpack";"FASHION";1406.0;2;"2024-03-10";"2024-03-15";"Online";"Delivered";1
+41;"Anjali singh";"anjalisingh22@gmail.com";"7581716034";"DELHI";"Maharashtra";"Tablet";"ACCESSORIES";42933.0;2;"2024-03-05";"2024-03-15";"Online";"Pending";4
+42;"Anjali mehta";"anjalimehta24@yahoo.com";"8394698635";"CHENNAI";"Tamil Nadu";"Shoes";"ELECTRONICS";37232.0;3;"2024-03-10";"2024-03-15";"Online";"Pending";2
+48;"Priya sharma";"priyasharma75@gmail.com";"8882165054";"DELHI";"Maharashtra";"Camera";"FASHION";21300.0;1;"2024-03-10";"2024-03-15";"COD";"Pending";3
+49;"Pooja verma";"poojaverma48@gmail.com";"9411365877";"AHMEDABAD";"Gujarat";"Laptop";"FASHION";33126.0;3;"2024-03-05";"2024-03-15";"cod";"delivered";1
+52;"Vikas verma";"vikasverma45@outlook.com";"9314095027";"DELHI";"Delhi";"Backpack";"ACCESSORIES";27522.0;2;"2024-03-10";"2024-03-15";"cod";"delivered";5
+54;"Priya sharma";"priyasharma62@gmail.com";"8960424695";"KOLKATA";"West Bengal";"Mobile";"FASHION";38706.0;1;"2024-03-10";"2024-03-15";"Online";"Pending";4
+55;"Priya singh";"priyasingh61@outlook.com";"7260704755";"DELHI";"Delhi";"Headphones";"FASHION";1250.0;2;"2024-03-10";"2024-03-15";"COD";"delivered";1
+59;"Neha kumar";"nehakumar92@outlook.com";"8221577302";"DELHI";"Maharashtra";"Watch";"FASHION";42714.0;1;"2024-03-10";"2024-03-15";"COD";"delivered";2
+61;"Anjali jain";"anjalijain11@yahoo.com";"6031910194";"AHMEDABAD";"Gujarat";"Shoes";"ELECTRONICS";30984.0;1;"2024-03-10";"2024-03-15";"Online";"Delivered";5
+65;"Meena gupta";"meenagupta33@outlook.com";"9258271408";"KOLKATA";"West Bengal";"Shoes";"ELECTRONICS";12941.0;1;"2024-03-10";"2024-03-15";"Online";"delivered";2
+72;"Anjali kumar";"anjalikumar10@yahoo.com";"9449742212";"HYDERABAD";"Telangana";"Shoes";"ELECTRONICS";2717.0;1;"2024-03-10";"2024-03-15";"cod";"delivered";1
+74;"Meena agarwal";"meenaagarwal41@yahoo.com";"6651372004";"HYDERABAD";"Telangana";"Mobile";"FASHION";48611.0;1;"2024-03-05";"2024-03-15";"Online";"Delivered";1
+75;"Rohit singh";"rohitsingh25@outlook.com";"9380983253";"BANGALORE";"Karnataka";"Laptop";"ELECTRONICS";38146.0;3;"2024-03-10";"2024-03-15";"COD";"delivered";1
+90;"Amit yadav";"amityadav65@outlook.com";"9812868199";"DELHI";"Delhi";"Tablet";"ACCESSORIES";45168.0;1;"2024-03-10";"2024-03-15";"Online";"Delivered";1
+91;"Sneha yadav";"snehayadav97@gmail.com";"8601322619";"HYDERABAD";"Telangana";"Laptop";"ACCESSORIES";43389.0;3;"2024-03-10";"2024-03-15";"Online";"Delivered";4
+94;"Vikas singh";"vikassingh59@yahoo.com";"8300389725";"AHMEDABAD";"Gujarat";"Backpack";"ELECTRONICS";27016.0;1;"2024-03-05";"2024-03-15";"Online";"delivered";4
+97;"Karan verma";"karanverma38@gmail.com";"6217850238";"DELHI";"Maharashtra";"Tablet";"ELECTRONICS";2729.0;2;"2024-03-05";"2024-03-15";"Online";"Delivered";3
+101;"Amit agarwal";"amitagarwal55@gmail.com";"9244812495";"DELHI";"Delhi";"Mobile";"FASHION";30728.0;3;"2024-03-05";"2024-03-15";"Online";"Delivered";1
+103;"Amit singh";"amitsingh52@gmail.com";"6932061250";"HYDERABAD";"Telangana";"Shoes";"ACCESSORIES";1369.0;3;"2024-03-10";"2024-03-15";"cod";"Delivered";2
+104;"Arjun gupta";"arjungupta91@gmail.com";"8660468013";"MUMBAI";"Maharashtra";"Mobile";"FASHION";2217.0;1;"2024-03-05";"2024-03-15";"COD";"Pending";3
+107;"Anjali mehta";"anjalimehta96@yahoo.com";"7605565039";"DELHI";"Delhi";"Mobile";"ACCESSORIES";5076.0;1;"2024-03-05";"2024-03-15";"Online";"Pending";5
+110;"Arjun jain";"arjunjain61@yahoo.com";"6900993413";"DELHI";"Delhi";"Watch";"ACCESSORIES";36813.0;2;"2024-03-10";"2024-03-15";"cod";"Delivered";1
+112;"Karan mehta";"karanmehta29@gmail.com";"8066536977";"KOLKATA";"West Bengal";"Camera";"FASHION";23100.0;3;"2024-03-10";"2024-03-15";"cod";"Pending";4
+114;"Anjali kumar";"anjalikumar49@outlook.com";"7045088639";"CHENNAI";"Tamil Nadu";"Laptop";"ELECTRONICS";49124.0;1;"2024-03-10";"2024-03-15";"COD";"Pending";1
+115;"Priya singh";"priyasingh49@gmail.com";"9319485693";"CHENNAI";"Tamil Nadu";"Camera";"ACCESSORIES";35486.0;1;"2024-03-10";"2024-03-15";"Online";"Pending";3
+118;"Pooja jain";"poojajain41@outlook.com";"8356245121";"PUNE";"Maharashtra";"Backpack";"ELECTRONICS";28151.0;1;"2024-03-05";"2024-03-20";"Online";"Pending";1
+119;"Rahul yadav";"rahulyadav49@yahoo.com";"8362528760";"DELHI";"Gujarat";"Backpack";"ELECTRONICS";38527.0;1;"2024-03-10";"2024-03-15";"COD";"Delivered";5
+121;"Arjun sharma";"arjunsharma53@gmail.com";"7666600002";"KOLKATA";"West Bengal";"Watch";"FASHION";21936.0;1;"2024-03-05";"2024-03-15";"Online";"delivered";1
+124;"Arjun mehta";"arjunmehta41@outlook.com";"6200533658";"DELHI";"Gujarat";"Backpack";"ELECTRONICS";16938.0;1;"2024-03-10";"2024-03-15";"Online";"Pending";1
+127;"Karan sharma";"karansharma65@gmail.com";"6179208871";"BANGALORE";"Karnataka";"Laptop";"ELECTRONICS";3430.0;1;"2024-03-10";"2024-03-15";"COD";"Delivered";2
+129;"Arjun jain";"arjunjain75@outlook.com";"7612489358";"PUNE";"Maharashtra";"Watch";"FASHION";25447.0;3;"2024-03-10";"2024-03-15";"cod";"Delivered";1
+136;"Vikas singh";"vikassingh14@yahoo.com";"6304628739";"AHMEDABAD";"Gujarat";"Shoes";"ELECTRONICS";48057.0;1;"2024-03-10";"2024-03-15";"Online";"Delivered";1
+142;"Amit agarwal";"amitagarwal52@outlook.com";"6125705112";"HYDERABAD";"Telangana";"Headphones";"ACCESSORIES";38492.0;1;"2024-03-10";"2024-03-15";"COD";"delivered";4
+143;"Neha patel";"nehapatel76@outlook.com";"7412647109";"AHMEDABAD";"Gujarat";"Camera";"ELECTRONICS";41257.0;1;"2024-03-05";"2024-03-15";"Online";"Delivered";2
+144;"Pooja singh";"poojasingh23@gmail.com";"6682549848";"AHMEDABAD";"Gujarat";"Camera";"FASHION";34654.0;1;"2024-03-05";"2024-03-15";"cod";"Delivered";3
